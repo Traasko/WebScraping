@@ -1,0 +1,95 @@
+[
+{
+    "titre": "Crêpes faciles",
+    "ingredients": [
+        "Farine",
+        "Lait",
+        "Œuf(s)",
+        "Sucre en poudre",
+        "Sucre vanillé",
+        "Sel"
+    ],
+    "temps_preparation": "7 min 3 min 30 min 10 min",
+    "etapes": [
+        "1 : Préparation de la pâte",
+        "2 : Cuisson des crêpes",
+        "3 : Conservation des crêpes"
+    ]
+},
+{
+    "titre": "Courgettes farcies légères",
+    "ingredients": [
+        "Courgette(s)",
+        "Bœuf haché 5% de matière grasse",
+        "Riz basmati",
+        "Oignon(s)",
+        "Ail",
+        "Coulis de tomates",
+        "Parmesan",
+        "Huile d'olive",
+        "Thym",
+        "Basilic",
+        "Persil",
+        "Sel",
+        "Poivre"
+    ],
+    "temps_preparation": "15 min 50 min 1 h 5 min",
+    "etapes": [
+        "1 : Préchauffage du four et préparation des courgettes",
+        "2 : Préparation de la farce",
+        "3 : Garnissage et cuisson au four",
+        "4 : Finition au parmesan et cuisson du riz"
+    ]
+},
+{
+    "titre": "Lasagnes à la bolognaise facile",
+    "ingredients": [
+        "Bœuf haché",
+        "Feuille(s) de lasagne",
+        "Pulpe de tomate",
+        "Oignon(s)",
+        "Ail",
+        "Gruyère râpé",
+        "Parmesan râpé",
+        "Huile d'olive",
+        "Beurre",
+        "Herbes de provence",
+        "Sucre",
+        "Sel",
+        "Poivre",
+        "Farine",
+        "Beurre",
+        "Lait",
+        "Noix de muscade",
+        "Sel",
+        "Poivre"
+    ],
+    "temps_preparation": "20 min 1 h 10 min 1 h 20 min",
+    "etapes": [
+        "1 : Préparation de la sauce tomate",
+        "2 : Cuisson du bœuf et intégration à la sauce",
+        "3 : Préparation de la béchamel",
+        "4 : Montage des lasagnes",
+        "5 : Cuisson des lasagnes",
+        "6 : Service des lasagnes"
+    ]
+},
+{
+    "titre": "Gratin de pâtes au fromage de chèvre",
+    "ingredients": [
+        "Pâtes",
+        "Fromage de chèvre frais",
+        "Persil hâché",
+        "Fromage râpé",
+        "Lait",
+        "Sel",
+        "Poivre"
+    ],
+    "temps_preparation": "10 min 20 min 30 min",
+    "etapes": [
+        "Étape 1",
+        "Étape 2",
+        "Étape 3"
+    ]
+}
+]
