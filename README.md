@@ -74,5 +74,5 @@ Les sélecteurs CSS ont été choisis après inspection manuelle des pages HTML 
 
 ## 📄 Auteurs
 
-Projet réalisé par : [Ton nom ou pseudo]  
+Projet réalisé par : Thomas Yalap 
 Date : Août 2025
